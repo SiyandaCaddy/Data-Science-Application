@@ -77,6 +77,12 @@ If only one dataset is available, the notebook automatically adjusts and continu
 
 ## 🧠 Results Summary
 
+Model	Accuracy	Precision	Recall	F1-score	ROC-AUC
+Logistic Regression	0.92	0.96	0.94	0.95	0.89
+Random Forest	0.90	0.94	0.93	0.94	0.87
+XGBoost	0.90	0.95	0.92	0.93	0.87
+
+
 
 - **Best Model:** Logistic Regression (≈92% accuracy)  
 - **Top Features:**  
